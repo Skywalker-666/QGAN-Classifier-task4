@@ -12,10 +12,6 @@ This repository contains a implementation of a **Quantum Generative Adversarial 
 ## Performance
 The model achieves a stable Area Under Curve (AUC) of approximately **0.80**, demonstrating strong discriminative power even with a small dataset.
 
-### Visual Results
-| Receiver Operating Characteristic | Signal vs Background Separation |
-| :---: | :---: |
-| ![ROC Curve](images/roc_curve.png) | ![Separation Plot](images/separation_plot.png) |
 
 ## Setup and Installation
 1. Clone the repository.
