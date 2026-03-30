@@ -1,0 +1,7 @@
+tensorflow==2.18.0
+tensorflow-quantum
+cirq
+sympy
+numpy
+matplotlib
+scikit-learn
